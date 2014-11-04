@@ -1,0 +1,14 @@
+{
+  "name": "TechnicallyFun",
+  "title": "TechnicallyFun",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/example.cfg",
+      "options.txt"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "name": "TechnicallyFun",
+      "title": "TechnicallyFun",
+      "version": "1.0.0-SNAPSHOT",
+      "location": "hostilethon.com/downloads/manifest.json", 
+      "priority": 1
+    }
+  ]
+}
